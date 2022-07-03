@@ -1,7 +1,7 @@
 # Credit_Risk_Analysis
 
 ### Overview
-THe purpose of this practice was to employ different techniques to train and evaluate models with unbalanced classes to find the best to use on drastically imbalanced classes. Credit risk is inherently unbalanced as good loans outnumber risky loans. If a model predicted a majority of loans to be good that would technically be accurate when looking at overall numbers but but lacking the precision that would identify bad loans.
+The purpose of this practice was to employ different techniques to train and evaluate models with unbalanced classes to find the best to use on drastically imbalanced classes. Credit risk is inherently unbalanced as good loans outnumber risky loans. If a model predicted a majority of loans to be good that would technically be accurate when looking at overall numbers but but lacking the precision that would identify bad loans.
 ### Results
 #### Naive Random Oversampling
 Confusion Matrix:
